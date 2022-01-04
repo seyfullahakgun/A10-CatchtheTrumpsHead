@@ -1,9 +1,7 @@
 package com.seyf.catchthetrumpshead;
 
-import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.SharedPreferences;
@@ -14,10 +12,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import java.util.Map;
 import java.util.Random;
-import java.util.Set;
 
 public class MainActivity extends AppCompatActivity {
 
